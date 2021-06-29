@@ -1,1 +1,6 @@
 hi how are u
+
+
+javascript
+angular
+python
